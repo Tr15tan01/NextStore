@@ -1,5 +1,4 @@
-const FavoritesPage = ({ searchParams }) => {
-  console.log(searchParams);
+const FavoritesPage = () => {
   return <div>FavoritesPage</div>;
 };
 export default FavoritesPage;
