@@ -14,7 +14,7 @@ function AboutPage() {
         decor, all designed to enhance your lifestyle. Our mission is to provide
         a seamless shopping experience, combining innovative technology with a
         customer-first approach. We pride ourselves on our extensive product
-        knowledge and commitment to offering unbeatable value. Whether you're
+        knowledge and commitment to offering unbeatable value. Whether you are
         looking for the newest gadgets or unique gifts, NextStore is here to
         help you find exactly what you need. Explore our collection today and
         discover why NextStore is the future of online shopping. Thank you for
